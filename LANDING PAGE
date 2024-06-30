@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page Example</title>
+</head>
+<body>
+  <header>
+    <h1> DINESH PROJECTS</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Features</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="TASKS">
+      <h2>Welcome to our Landing Page!</h2>
+      <p>HELLO GUYS THIS IS THE BEST INTERFACE FOR EVERY SINGLE OPPURTUNITY </p>
+      <button>Get Started Today!</button>
+      <button>JOIN US </button>
+       <button>CONTACT US </button>
+
+   </section>
+
+    <section class="about">
+      <h3>About Us</h3>
+      <p> Briefly describe your company and what you do. </p>
+    </section>
+
+    <section class="benefits">
+      <h3>Benefits</h3>
+      <ul>
+        <li>SIGN UP</li>
+        <li>LOGIN </li>
+        <li>BECOME A PARTNER</li>
+        <li>CHANGE PASSWORD</li>
+      </ul>
+    </section>
+
+    <section class="cta">
+      <h2>Ready to take the next step?</h2>
+      <button>Sign Up Now!</button>
+     <button>PAYMENT HISTORY</button>
+    </secztion>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 DINESH PROJECTS</p>
+  </footer>
+</body>
+</html>
